@@ -5,8 +5,8 @@
 - 🕹️ Hobbies: Ficção científica, urbanografia, ilustrações, culinária, arcade games e maratonas de Netflix em família. 
 - 🎓 Formação: Bacharelado em Direito e MBA em Cibersecurity & Cibercrimes pela Universidade de Mogi das Cruzes - UMC.
 - ⚙ Experiências Profissionais: Trabalhei por mais de dez anos na área administrativa, financeira e comercial. Tenho experiência em formulação de petições e contratos, gestão de pessoas e atendimento ao público. Migrando de carreira para o ramo da tecnologia, com a convicção de que nunca é tarde para aprender e adquirir novas habilidades.
-- 👨‍💻 Tecnologias favoritas: HTML, CSS, Javascript e Python.
-- 📚 Novas formações e cursos: Participando do 7º programa Starter Full Stack Web Develloper da Growdev, e do Python Fundamentos para Análise de dados 3.0 da Data Science Academy. 
+- 👨‍💻 Tecnologias favoritas: HTML, CSS, Javascript, React.Js, Node.Js, Vite.
+- 📚 Novas formações e cursos: Participando do 11º programa Starter Full Stack Web Develloper da Growdev, e do Fundamentos para Análise de dados 3.0 da Data Science Academy. 
 - 📲 Onde me encontrar: <a href="https://www.linkedin.com/in/denis-prata-811a7a142/" target="_blank">LinkedIn</a> 🔗 <a href="mailto:dop7710@hotmail.com" target="_blank">e-mail</a>
 
 <div align="center">
